@@ -1,0 +1,6 @@
+*.asc
+*.pub
+*.conf
+*.batch
+*.deb
+.git

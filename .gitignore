@@ -1,0 +1,5 @@
+*.asc
+*.pub
+*.conf
+*.batch
+/wayback
