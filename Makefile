@@ -9,5 +9,6 @@ build:
 
 .PHONY: publish
 publish:
-	git commit -am "Release $(VERSION)"
+	git add *.deb *Release* Packages*
+	git commit -m "Release $(VERSION)"
 	git push origin main
