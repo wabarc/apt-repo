@@ -1,53 +1,53 @@
 Package: wayback
 Architecture: amd64
-Version: 0.14.0
+Version: 0.14.1
 Priority: optional
 Section: web
 Maintainer: Wayback Archiver <wabarc@tuta.io>
-Installed-Size: 22584
+Installed-Size: 22703
 Depends: adduser
-Filename: ./wayback/wayback_0.14.0_amd64.deb
-Size: 6243984
-MD5sum: 7a823144024b57b2258f1afa513c5ab7
-SHA1: c186653048a74e303a09422d79fbdfec17b2420b
-SHA256: 9b6e83bc05493832b4654ce6b3239e190eb066a28a33fcea052655909fe4a136
-SHA512: 1a3dfb0c5df5fd8be975c20f9bc4b87097fa5ae1ef201230a03826b7a5922a73cf0d73b0e08e36798f0485700b65ce1baeca670d1bca256d6b80bae023024424
+Filename: ./wayback/wayback_0.14.1_amd64.deb
+Size: 6263920
+MD5sum: ef16b33198ff94fea4590ae1275f426e
+SHA1: 41bb24c015c550785bd6642bb978d14066fae405
+SHA256: ec69e67ed698afc91d419e5d67e311acbbdb400454f5132726b8eb4ac4c59a20
+SHA512: e8c9cdacd10d6f63eb577ee46c101c7dd68fcf9e04d18b0983049c6642b5a7437469203379927f623823571c1d3e6429cf3cfb8591d95c3a8c6cc603d486c734
 Homepage: https://github.com/wabarc/wayback
 Description: The wayback is a toolkit for snapshot webpage to
  Internet Archive, archive.today, IPFS and beyond.
 
 Package: wayback
 Architecture: arm64
-Version: 0.14.0
+Version: 0.14.1
 Priority: optional
 Section: web
 Maintainer: Wayback Archiver <wabarc@tuta.io>
-Installed-Size: 21048
+Installed-Size: 21175
 Depends: adduser
-Filename: ./wayback/wayback_0.14.0_arm64.deb
-Size: 5511628
-MD5sum: e9d877240569ab0be208d57466426ddf
-SHA1: 577f6a075e549d61bab0c53a9a1d55bfa0ab8f26
-SHA256: f1e9820b54eaf09f7a5f57bab17722c58477361a1550edf2ddc0f39f12f6ef84
-SHA512: 2c8c4fb03e1126a6c18800e0c3a0db153d436e464ebebad1d8070bed6375db1102a044f1f417dab671cb0e48a5a94663cd795c5a13c0143678b396208246991b
+Filename: ./wayback/wayback_0.14.1_arm64.deb
+Size: 5531908
+MD5sum: fb916e53076dd4faecd9585e8f6f2fef
+SHA1: 7a8c5bb14af904a876c48bbce8a1b5234f317a2a
+SHA256: 3ba1d74adb28b7bc15df6e450ab1b976a42b62557eddc3773d7046df1c2e6e3a
+SHA512: 334e8a519ae5c1dcc6341f4896652c81f236e2b671cc3030c0914af7909329b8aed7318fe038868ceb7f337794bcf8a3cd4f23f9720541e483b58a58ecc60866
 Homepage: https://github.com/wabarc/wayback
 Description: The wayback is a toolkit for snapshot webpage to
  Internet Archive, archive.today, IPFS and beyond.
 
 Package: wayback
 Architecture: armhf
-Version: 0.14.0
+Version: 0.14.1
 Priority: optional
 Section: web
 Maintainer: Wayback Archiver <wabarc@tuta.io>
-Installed-Size: 19182
+Installed-Size: 19246
 Depends: adduser
-Filename: ./wayback/wayback_0.14.0_armhf.deb
-Size: 5543504
-MD5sum: b67748941b2e66d7f8bcb4629c58d64a
-SHA1: 57776aa43cbfbcb6acb2354656085354b63558a4
-SHA256: 84c1e2fe617d03097bfed0379068a6dfb2a452aa35f9860f02c441fc04a6979a
-SHA512: 90d36843ced875f93d88ebc91292c66dcd5ff4814c7230e9b92a40676729676c3741031ec7e88b8d216a2c1feb815e636b030ea77bda9ab30ff556589dcf3bcf
+Filename: ./wayback/wayback_0.14.1_armhf.deb
+Size: 5560552
+MD5sum: 17d3469adb07d0c31017bf66c445d3f1
+SHA1: a3c735423eba53ec37a6519421010a45c4eea6cd
+SHA256: 2da679e3c8d74c5652a040ad00ca4741c282ed353e16234b566e1160549c7bd8
+SHA512: ac908f543345049fd3a8ac815e5a46ac975076d8493bf35e28ec7104774c0fbc13b014b3ca9df4efcc8c6574efc12f645b6a494d1ba314b4e80ed8508ad6f534
 Homepage: https://github.com/wabarc/wayback
 Description: The wayback is a toolkit for snapshot webpage to
  Internet Archive, archive.today, IPFS and beyond.
@@ -750,6 +750,60 @@ MD5sum: b67748941b2e66d7f8bcb4629c58d64a
 SHA1: 57776aa43cbfbcb6acb2354656085354b63558a4
 SHA256: 84c1e2fe617d03097bfed0379068a6dfb2a452aa35f9860f02c441fc04a6979a
 SHA512: 90d36843ced875f93d88ebc91292c66dcd5ff4814c7230e9b92a40676729676c3741031ec7e88b8d216a2c1feb815e636b030ea77bda9ab30ff556589dcf3bcf
+Homepage: https://github.com/wabarc/wayback
+Description: The wayback is a toolkit for snapshot webpage to
+ Internet Archive, archive.today, IPFS and beyond.
+
+Package: wayback
+Architecture: amd64
+Version: 0.14.1
+Priority: optional
+Section: web
+Maintainer: Wayback Archiver <wabarc@tuta.io>
+Installed-Size: 22703
+Depends: adduser
+Filename: ./wayback_0.14.1_amd64.deb
+Size: 6263920
+MD5sum: ef16b33198ff94fea4590ae1275f426e
+SHA1: 41bb24c015c550785bd6642bb978d14066fae405
+SHA256: ec69e67ed698afc91d419e5d67e311acbbdb400454f5132726b8eb4ac4c59a20
+SHA512: e8c9cdacd10d6f63eb577ee46c101c7dd68fcf9e04d18b0983049c6642b5a7437469203379927f623823571c1d3e6429cf3cfb8591d95c3a8c6cc603d486c734
+Homepage: https://github.com/wabarc/wayback
+Description: The wayback is a toolkit for snapshot webpage to
+ Internet Archive, archive.today, IPFS and beyond.
+
+Package: wayback
+Architecture: arm64
+Version: 0.14.1
+Priority: optional
+Section: web
+Maintainer: Wayback Archiver <wabarc@tuta.io>
+Installed-Size: 21175
+Depends: adduser
+Filename: ./wayback_0.14.1_arm64.deb
+Size: 5531908
+MD5sum: fb916e53076dd4faecd9585e8f6f2fef
+SHA1: 7a8c5bb14af904a876c48bbce8a1b5234f317a2a
+SHA256: 3ba1d74adb28b7bc15df6e450ab1b976a42b62557eddc3773d7046df1c2e6e3a
+SHA512: 334e8a519ae5c1dcc6341f4896652c81f236e2b671cc3030c0914af7909329b8aed7318fe038868ceb7f337794bcf8a3cd4f23f9720541e483b58a58ecc60866
+Homepage: https://github.com/wabarc/wayback
+Description: The wayback is a toolkit for snapshot webpage to
+ Internet Archive, archive.today, IPFS and beyond.
+
+Package: wayback
+Architecture: armhf
+Version: 0.14.1
+Priority: optional
+Section: web
+Maintainer: Wayback Archiver <wabarc@tuta.io>
+Installed-Size: 19246
+Depends: adduser
+Filename: ./wayback_0.14.1_armhf.deb
+Size: 5560552
+MD5sum: 17d3469adb07d0c31017bf66c445d3f1
+SHA1: a3c735423eba53ec37a6519421010a45c4eea6cd
+SHA256: 2da679e3c8d74c5652a040ad00ca4741c282ed353e16234b566e1160549c7bd8
+SHA512: ac908f543345049fd3a8ac815e5a46ac975076d8493bf35e28ec7104774c0fbc13b014b3ca9df4efcc8c6574efc12f645b6a494d1ba314b4e80ed8508ad6f534
 Homepage: https://github.com/wabarc/wayback
 Description: The wayback is a toolkit for snapshot webpage to
  Internet Archive, archive.today, IPFS and beyond.
